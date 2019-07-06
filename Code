@@ -79,6 +79,12 @@
       
        android:scaleType="centerCrop"
           
+         
+        
+         />
+
+</LinearLayout>
+          
         
      
      
